@@ -1,2 +1,2 @@
-<!ENTITY % file SYSTEM "file:///opt/zimbra/conf/localconfig.xml">
+<!ENTITY % file SYSTEM "file:///etc/hostname">
 <!ENTITY % all "<!ENTITY fileContents '%file;'>">
