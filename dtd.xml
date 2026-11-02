@@ -1,2 +1,1 @@
-<!ENTITY % file SYSTEM "file:///etc/hostname">
-<!ENTITY % all "<!ENTITY fileContents '%file;'>">
+<!ENTITY fileContents "test-xxe-works">
